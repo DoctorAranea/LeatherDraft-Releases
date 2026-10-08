@@ -1,0 +1,56 @@
+LeatherDraft - лицензия
+Copyright (c) 2026 DoctorAranea
+
+1. Программа бесплатна. Её можно устанавливать и использовать на любом числе
+   компьютеров, в том числе в работе, которая приносит доход: шить и продавать
+   изделия, делать и продавать выкройки.
+
+2. Выкройки, чертежи и другие файлы, сделанные в программе, принадлежат тем, кто
+   их сделал. Их можно использовать, продавать и распространять без ограничений
+   и без упоминания программы.
+
+3. Установщик можно передавать другим только бесплатно и без изменений. Нельзя:
+   - продавать программу или брать плату за её распространение;
+   - выдавать программу за свою или распространять изменённые копии;
+   - разбирать, декомпилировать или изменять программу, кроме случаев, прямо
+     разрешённых законом.
+
+4. Программа предоставляется "как есть", без каких-либо гарантий. Автор не
+   отвечает за ущерб от её использования, в том числе за испорченный материал
+   из-за ошибки в выкройке. Перед раскроем проверяйте размеры распечатки по
+   контрольному квадрату.
+
+5. Программа использует свободные библиотеки других авторов. Их лицензии - в
+   файле THIRD-PARTY-NOTICES.txt.
+
+6. К каждой версии программы относятся условия, приложенные к этой версии.
+
+------------------------------------------------------------------------------
+
+LeatherDraft - License
+Copyright (c) 2026 DoctorAranea
+
+1. The program is free. You may install and use it on any number of computers,
+   including for paid work: making and selling leather goods, designing and
+   selling patterns.
+
+2. Patterns, drawings and other files made with the program belong to the people
+   who made them. They may be used, sold and distributed without restriction and
+   without mentioning the program.
+
+3. You may pass the installer on to others only free of charge and unmodified.
+   You may not:
+   - sell the program or charge for distributing it;
+   - present the program as your own or distribute modified copies;
+   - disassemble, decompile or modify the program, except where the law
+     expressly permits it.
+
+4. The program is provided "as is", without warranty of any kind. The author is
+   not liable for any damage arising from its use, including material spoiled
+   because of an error in a pattern. Check the printout against the control
+   square before cutting.
+
+5. The program uses open-source libraries by other authors. Their licenses are in
+   THIRD-PARTY-NOTICES.txt.
+
+6. Each version of the program is covered by the terms supplied with that version.
